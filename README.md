@@ -8,3 +8,8 @@
 - キャルちゃんの論文チェックはこちら
   - [astroph](https://github.com/github-nakasho/astroph)
   - [quantph](https://github.com/github-nakasho/quantph)
+
+---
+
+最新論文はこちら
+- [arxiv](https://arxiv.org/list/quant-ph/recent)
